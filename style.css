@@ -107,7 +107,7 @@ body {
 
     .btn:hover {
         background-color: var(--hoverColor)
-        transform: scale(1) !important;
+
     }
 
     .overlay {
@@ -130,4 +130,3 @@ body {
     height: 3px;
     background-color: var (--darkTwo);
 }
-
