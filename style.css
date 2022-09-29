@@ -1,4 +1,4 @@
-.ligth {
+/* .ligth {
     --mainCololor: #8164f4;
     --hoverColor: #5b5fdf;
     --backgroundColor: #f1f8fc;
@@ -129,4 +129,21 @@ body {
     width: 100%;
     height: 3px;
     background-color: var (--darkTwo);
+} */
+
+
+
+
+@import url('https://googleapis.com/css2?family=Sora:wght@100;300;400;500;600&display=swap');
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "sora", sans-serif;
+    overflow: hidden;
 }
