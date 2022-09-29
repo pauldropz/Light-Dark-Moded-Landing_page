@@ -8,3 +8,13 @@
     --lightTwo: #222;
 
 }
+.dark {
+    --mainCololor: #4c3bbe;
+    --hoverColor: #5b5fdf;
+    --backgroundColor: #f1f8fc;
+    --darkOne: #222;
+    --darkTwo: #45424b;
+    --lightOne: #919191;
+    --lightTwo: #222;
+
+}
