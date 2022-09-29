@@ -26,3 +26,18 @@
         margin: 0;
         box-sizing: border-box;
 }
+
+body {
+
+    font-family: "sora", sans-serif;
+}
+.wrapper {
+    position: relative;
+    padding: 1.7rem 0.2rem;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: var(--backgroundColor);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
