@@ -92,3 +92,9 @@ font-weight: 700;
     align-items: center;
     margin-right: 30px;
 }
+
+.links a {
+color: var(--lightTwo);
+margin-left: 4.5rem;
+display: inline-block;
+}
