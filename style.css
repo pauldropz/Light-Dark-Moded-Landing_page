@@ -4,15 +4,6 @@
 
 /* ===================================Variable CSS===================================== */
 
-.light {
-    --mainColor: #8164f4;
-    --hoverColor: #5b5fdf;
-    --backgroundColor: #f1f8fc;
-    --darkOne: #222;
-    --darkTwo: #45424b;
-    --lightOne: #919191;
-    --lightTwo: #222;
-}
 
 .dark {
     --mainColor: #4c3bbe ;
