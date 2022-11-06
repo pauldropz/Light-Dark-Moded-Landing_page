@@ -1,20 +1,5 @@
 @import url('https://googleapis.com/css2?family=Sora:wght@100;300;400;500;600&display=swap');
 
-
-
-/* ===================================Variable CSS===================================== */
-
-
-.dark {
-    --mainColor: #4c3bbe ;
-    --hoverColor: #5b5fdf;
-    --backgroundColor: #1a193a;
-    --darkOne: #f3f3f3;
-    --darkTwo: #fff;
-    --lightOne: #ccc;
-    --lightTwo: #e7e3e3;
-}
-
 body {
     font-family: "sora", sans-serif;
     overflow: hidden;
