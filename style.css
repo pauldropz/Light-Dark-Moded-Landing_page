@@ -44,13 +44,6 @@ header {
     cursor: pointer;
 }
 
-.logo h3 {
-color: var(--darkTwo);
-font-size: 1.55rem;
-line-height: 1.2;
-font-weight: 700;
-
-}
 
 .links ul {
     display: flex;
